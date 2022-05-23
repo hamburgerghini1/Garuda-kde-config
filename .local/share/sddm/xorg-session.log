@@ -1,0 +1,182 @@
+kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 1208, result = 0
+kdeinit5: opened connection to :0
+kdeinit5: Got SETENV 'XCURSOR_THEME=Sweet-cursors' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/tommi/.gtkrc:/home/tommi/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/tommi/.gtkrc-2.0:/home/tommi/.config/gtkrc-2.0' from launcher.
+KTranscript: Loaded property map: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/general.pmapc
+KTranscript: Loaded module: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/ki18n5.js
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/garuda:@/tmp/.ICE-unix/1277,unix/garuda:/tmp/.ICE-unix/1277' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/garuda:@/tmp/.ICE-unix/1277,unix/garuda:/tmp/.ICE-unix/1277' from launcher.
+Created symlink /home/tommi/.config/systemd/user/default.target.wants/gamemoded.service → /usr/lib/systemd/user/gamemoded.service.
+Failed to load profile 'default': Profile not found (line 1502)
+wine: created the configuration directory '/home/tommi/.wine'
+KTranscript: Loaded property map: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/general.pmapc
+KTranscript: Loaded module: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/ki18n5.js
+
+(displaycal-apply-profiles:1359): Gtk-WARNING **: 13:30:17.000: Theme parsing error: gtk-dark.css:5822:26: '-shadow' is not a valid color name
+
+(displaycal-apply-profiles:1359): Gtk-WARNING **: 13:30:17.000: Theme parsing error: gtk-dark.css:5825:14: not a number
+
+(displaycal-apply-profiles:1359): Gtk-WARNING **: 13:30:17.000: Theme parsing error: gtk-dark.css:5826:13: not a number
+
+(displaycal-apply-profiles:1359): Gtk-WARNING **: 13:30:17.000: Theme parsing error: gtk-dark.css:5827:11: Expected a length
+KTranscript: Loaded property map: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/general.pmapc
+KTranscript: Loaded module: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/ki18n5.js
+wine: configuration in L"/home/tommi/.wine" has been updated.
+wine: configuration in L"/home/tommi/.wine" has been updated.
+
+(yad:1839): Gtk-WARNING **: 13:30:22.249: Theme parsing error: gtk-dark.css:5822:26: '-shadow' is not a valid color name
+
+(yad:1839): Gtk-WARNING **: 13:30:22.249: Theme parsing error: gtk-dark.css:5825:14: not a number
+
+(yad:1839): Gtk-WARNING **: 13:30:22.249: Theme parsing error: gtk-dark.css:5826:13: not a number
+
+(yad:1839): Gtk-WARNING **: 13:30:22.249: Theme parsing error: gtk-dark.css:5827:11: Expected a length
+KTranscript: Loaded property map: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/general.pmapc
+KTranscript: Loaded module: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/ki18n5.js
+KTranscript: Loaded module: /usr/share/locale/fi/LC_SCRIPTS/dolphin/dolphin.js
+KTranscript: Loaded property map: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/general.pmapc
+KTranscript: Loaded module: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/ki18n5.js
+libpng error: Read Error
+KTranscript: Loaded property map: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/general.pmapc
+KTranscript: Loaded module: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/ki18n5.js
+KTranscript: Loaded property map: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/general.pmapc
+KTranscript: Loaded module: /usr/share/locale/fi/LC_SCRIPTS/ki18n5/ki18n5.js
+[20618:0523/133807.957949:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: chrome://browser/content/browser.js, line 4723: TypeError: PanelUI.panel is undefined
+
+(firedragon:20840): LIBDBUSMENU-GTK-CRITICAL **: 10:38:13.216: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+JavaScript error: chrome://browser/content/browser.js, line 4723: TypeError: PanelUI.panel is undefined
+JavaScript error: chrome://browser/content/browser.js, line 4723: TypeError: PanelUI.panel is undefined
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/home/tommi/.firedragon/bheuglrx.default-release/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 574: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorBridge::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: seccomp sandbox violation: pid 21141, tid 21141, syscall 157, args 2 140733557286116 72057594037927935 140733557286182 0 3978711692165002290.
+LLVM Profile Error: Failed to write file "default_12803610240349778560_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21141, tid 21141, syscall 157, args 2 140733557286116 72057594037927935 140733557286181 0 3761405335054858548.
+LLVM Profile Error: Failed to write file "default_7427944849449234093_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21141, tid 21141, syscall 157, args 2 140733557286116 72057594037927935 140733557286180 0 4049074955931300151.
+LLVM Profile Error: Failed to write file "default_942482837171841843_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21141, tid 21141, syscall 157, args 2 140733557286116 72057594037927935 140733557286182 0 3832904338514720569.
+LLVM Profile Error: Failed to write file "default_15765581979306158640_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21141, tid 21141, syscall 157, args 2 140733557286116 72057594037927935 140733557286181 0 3474870367128336691.
+LLVM Profile Error: Failed to write file "default_4489034439710890542_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21141, tid 21141, syscall 157, args 2 140733557286116 72057594037927935 140733557286181 0 4050487806881116472.
+LLVM Profile Error: Failed to write file "default_9005676881303968333_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21141, tid 21141, syscall 157, args 2 140733557285124 72057594037927935 140733557285189 0 3689636882527105331.
+LLVM Profile Error: Failed to write file "default_5732779131552943720_0.profraw": Permission denied
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorBridge::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: seccomp sandbox violation: pid 21202, tid 21202, syscall 157, args 2 140724282306180 72057594037927935 140724282306246 0 3978711692165002290.
+LLVM Profile Error: Failed to write file "default_12803610240349778560_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21202, tid 21202, syscall 157, args 2 140724282306180 72057594037927935 140724282306245 0 3761405335054858548.
+Sandbox: seccomp sandbox violation: pid 21220, tid 21220, syscall 157, args 2 140733724454068 72057594037927935 140733724454134 0 3978711692165002290.
+LLVM Profile Error: Failed to write file "default_7427944849449234093_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21202, tid 21202, syscall 157, args 2 140724282306180 72057594037927935 140724282306244 0 4049074955931300151.
+LLVM Profile Error: Failed to write file "default_12803610240349778560_0.profraw": Permission denied
+LLVM Profile Error: Failed to write file "default_942482837171841843_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21202, tid 21202, syscall 157, args 2 140724282306180 72057594037927935 140724282306246 0 3832904338514720569.
+LLVM Profile Error: Failed to write file "default_15765581979306158640_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21202, tid 21202, syscall 157, args 2 140724282306180 72057594037927935 140724282306245 0 3474870367128336691.
+LLVM Profile Error: Failed to write file "default_4489034439710890542_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21202, tid 21202, syscall 157, args 2 140724282306180 72057594037927935 140724282306245 0 4050487806881116472.
+LLVM Profile Error: Failed to write file "default_9005676881303968333_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21220, tid 21220, syscall 157, args 2 140733724454068 72057594037927935 140733724454133 0 3761405335054858548.
+LLVM Profile Error: Failed to write file "default_7427944849449234093_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21220, tid 21220, syscall 157, args 2 140733724454068 72057594037927935 140733724454132 0 4049074955931300151.
+LLVM Profile Error: Failed to write file "default_942482837171841843_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21220, tid 21220, syscall 157, args 2 140733724454068 72057594037927935 140733724454134 0 3832904338514720569.
+Sandbox: seccomp sandbox violation: pid 21202, tid 21202, syscall 157, args 2 140724282305188 72057594037927935 140724282305253 0 3689636882527105331.
+LLVM Profile Error: Failed to write file "default_15765581979306158640_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21220, tid 21220, syscall 157, args 2 140733724454068 72057594037927935 140733724454133 0 3474870367128336691.
+LLVM Profile Error: Failed to write file "default_5732779131552943720_0.profraw": Permission denied
+LLVM Profile Error: Failed to write file "default_4489034439710890542_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21220, tid 21220, syscall 157, args 2 140733724454068 72057594037927935 140733724454133 0 4050487806881116472.
+LLVM Profile Error: Failed to write file "default_9005676881303968333_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21220, tid 21220, syscall 157, args 2 140733724453076 72057594037927935 140733724453141 0 3689636882527105331.
+LLVM Profile Error: Failed to write file "default_5732779131552943720_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21206, tid 21206, syscall 157, args 2 140731383499844 72057594037927935 140731383499910 0 3978711692165002290.
+LLVM Profile Error: Failed to write file "default_12803610240349778560_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21206, tid 21206, syscall 157, args 2 140731383499844 72057594037927935 140731383499909 0 3761405335054858548.
+LLVM Profile Error: Failed to write file "default_7427944849449234093_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21206, tid 21206, syscall 157, args 2 140731383499844 72057594037927935 140731383499908 0 4049074955931300151.
+LLVM Profile Error: Failed to write file "default_942482837171841843_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21206, tid 21206, syscall 157, args 2 140731383499844 72057594037927935 140731383499910 0 3832904338514720569.
+LLVM Profile Error: Failed to write file "default_15765581979306158640_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21206, tid 21206, syscall 157, args 2 140731383499844 72057594037927935 140731383499909 0 3474870367128336691.
+LLVM Profile Error: Failed to write file "default_4489034439710890542_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21206, tid 21206, syscall 157, args 2 140731383499844 72057594037927935 140731383499909 0 4050487806881116472.
+LLVM Profile Error: Failed to write file "default_9005676881303968333_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21206, tid 21206, syscall 157, args 2 140731383498852 72057594037927935 140731383498917 0 3689636882527105331.
+LLVM Profile Error: Failed to write file "default_5732779131552943720_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21015, tid 21015, syscall 157, args 2 140729867516580 72057594037927935 140729867516646 0 3978711692165002290.
+LLVM Profile Error: Failed to write file "default_12803610240349778560_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21015, tid 21015, syscall 157, args 2 140729867516580 72057594037927935 140729867516645 0 3761405335054858548.
+LLVM Profile Error: Failed to write file "default_7427944849449234093_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21015, tid 21015, syscall 157, args 2 140729867516580 72057594037927935 140729867516644 0 4049074955931300151.
+LLVM Profile Error: Failed to write file "default_942482837171841843_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21015, tid 21015, syscall 157, args 2 140729867516580 72057594037927935 140729867516646 0 3832904338514720569.
+LLVM Profile Error: Failed to write file "default_15765581979306158640_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21015, tid 21015, syscall 157, args 2 140729867516580 72057594037927935 140729867516645 0 3474870367128336691.
+LLVM Profile Error: Failed to write file "default_4489034439710890542_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21015, tid 21015, syscall 157, args 2 140729867516580 72057594037927935 140729867516645 0 4050487806881116472.
+LLVM Profile Error: Failed to write file "default_9005676881303968333_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21015, tid 21015, syscall 157, args 2 140729867515588 72057594037927935 140729867515653 0 3689636882527105331.
+LLVM Profile Error: Failed to write file "default_5732779131552943720_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 20898, tid 20898, syscall 157, args 2 140727870505428 72057594037927935 140727870505493 0 4123102870494459187.
+LLVM Profile Error: Failed to write file "default_7713818935707489603_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 20898, tid 20898, syscall 157, args 2 140727870512724 72057594037927935 140727870512790 0 3978711692165002290.
+LLVM Profile Error: Failed to write file "default_12803610240349778560_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 20898, tid 20898, syscall 157, args 2 140727870512724 72057594037927935 140727870512789 0 3761405335054858548.
+LLVM Profile Error: Failed to write file "default_7427944849449234093_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 20898, tid 20898, syscall 157, args 2 140727870512724 72057594037927935 140727870512788 0 4049074955931300151.
+LLVM Profile Error: Failed to write file "default_942482837171841843_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 20898, tid 20898, syscall 157, args 2 140727870512724 72057594037927935 140727870512790 0 3832904338514720569.
+LLVM Profile Error: Failed to write file "default_15765581979306158640_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 20898, tid 20898, syscall 157, args 2 140727870512724 72057594037927935 140727870512789 0 3474870367128336691.
+LLVM Profile Error: Failed to write file "default_4489034439710890542_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 20898, tid 20898, syscall 157, args 2 140727870512724 72057594037927935 140727870512789 0 4050487806881116472.
+LLVM Profile Error: Failed to write file "default_9005676881303968333_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 20898, tid 20898, syscall 157, args 2 140727870511732 72057594037927935 140727870511797 0 3689636882527105331.
+LLVM Profile Error: Failed to write file "default_5732779131552943720_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21037, tid 21037, syscall 157, args 2 140721975469924 72057594037927935 140721975469990 0 3978711692165002290.
+LLVM Profile Error: Failed to write file "default_12803610240349778560_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21037, tid 21037, syscall 157, args 2 140721975469924 72057594037927935 140721975469989 0 3761405335054858548.
+LLVM Profile Error: Failed to write file "default_7427944849449234093_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21037, tid 21037, syscall 157, args 2 140721975469924 72057594037927935 140721975469988 0 4049074955931300151.
+LLVM Profile Error: Failed to write file "default_942482837171841843_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21037, tid 21037, syscall 157, args 2 140721975469924 72057594037927935 140721975469990 0 3832904338514720569.
+LLVM Profile Error: Failed to write file "default_15765581979306158640_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21037, tid 21037, syscall 157, args 2 140721975469924 72057594037927935 140721975469989 0 3474870367128336691.
+LLVM Profile Error: Failed to write file "default_4489034439710890542_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21037, tid 21037, syscall 157, args 2 140721975469924 72057594037927935 140721975469989 0 4050487806881116472.
+LLVM Profile Error: Failed to write file "default_9005676881303968333_0.profraw": Permission denied
+Sandbox: seccomp sandbox violation: pid 21037, tid 21037, syscall 157, args 2 140721975468932 72057594037927935 140721975468997 0 3689636882527105331.
+LLVM Profile Error: Failed to write file "default_5732779131552943720_0.profraw": Permission denied
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+

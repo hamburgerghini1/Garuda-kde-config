@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&amp;scope=repo%20user%20workflow&amp;state=a1fb09f8-1f33-4599-b7e8-1f45348c77a9" added="2022-05-23T10:38:11.852000Z" modified="2022-05-23T10:38:11.852000Z" visited="2022-05-23T10:38:11.852000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firedragon" exec="/usr/lib/firedragon/firedragon %u %u" modified="2022-05-23T10:38:11.852000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+<bookmark href="x-github-desktop-dev-auth://oauth?code=4d99bc0032bc7e60d044&amp;state=a1fb09f8-1f33-4599-b7e8-1f45348c77a9" added="2022-05-23T10:39:55.385000Z" modified="2022-05-23T10:39:55.385000Z" visited="2022-05-23T10:39:55.385000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="github-desktop" exec="/usr/bin/github-desktop %U %u" modified="2022-05-23T10:39:55.385000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

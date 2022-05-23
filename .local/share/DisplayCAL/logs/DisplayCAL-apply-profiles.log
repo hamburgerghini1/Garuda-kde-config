@@ -1,0 +1,19 @@
+2022-05-23 13:30:16,802 /usr/lib64/python2.7/site-packages/wx-3.0-gtk3/wx/_core.py:16629: UserWarning: wxPython/wxWidgets release number mismatch
+2022-05-23 13:30:17,079 ================================================================================
+2022-05-23 13:30:17,084 Loading calibration curves of current display device profile...
+2022-05-23 13:30:17,088 Enumerating display devices and communication ports...
+2022-05-23 13:30:17,088 /usr/bin
+2022-05-23 13:30:17,097 ArgyllCMS 2.3.0
+2022-05-23 13:30:17,098 Argyll has virtual display support
+2022-05-23 13:30:17,098 ...ok.
+2022-05-23 13:30:17,114 --------------------------------------------------------------------------------
+2022-05-23 13:30:17,114 Command line:
+2022-05-23 13:30:17,114   /usr/bin/dispwin
+2022-05-23 13:30:17,115     -v
+2022-05-23 13:30:17,115     -d1
+2022-05-23 13:30:17,115     -L
+2022-05-23 13:30:17,115 
+2022-05-23 13:30:17,120 About to open dispwin object on the display
+2022-05-23 13:30:17,120 Dispwin: Warning - new_dispwin: Expected VideoLUT depth 8 doesn't match actual 10
+2022-05-23 13:30:17,120 Dispwin: Error - Failed to get the displays current ICC profile
+2022-05-23 13:30:17,120 dispwin exitcode: 1
